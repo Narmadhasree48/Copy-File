@@ -23,6 +23,6 @@ with open("copytxt",'w') as fp1:
     fp1.write(msg1)
 ```
 ### OUTPUT:
-![alt text](<Screenshot 2024-05-12 205631.png>)
+![alt text](<Screenshot 2024-05-13 033528.png>)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
